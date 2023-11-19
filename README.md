@@ -1,7 +1,7 @@
 ### Hey there, I'm itchyny
 
 I love open-source software.
-I love [Vim](https://www.vim.org/), [Go](https://golang.org), and [jq](https://stedolan.github.io/jq/).
+I love [Vim](https://www.vim.org/), [Go](https://golang.org), [Rust](https://rust-lang.org), and [jq](https://stedolan.github.io/jq/).
 
 - Vim plugins
  ([lightline.vim](https://github.com/itchyny/lightline.vim),
@@ -11,8 +11,8 @@ I love [Vim](https://www.vim.org/), [Go](https://golang.org), and [jq](https://s
   [vim-gitbranch](https://github.com/itchyny/vim-gitbranch),
   [vim-qfedit](https://github.com/itchyny/vim-qfedit))
 - Go cli tools and packages
- ([bed](https://github.com/itchyny/bed),
-  [gojq](https://github.com/itchyny/gojq),
+ ([gojq](https://github.com/itchyny/gojq),
+  [bed](https://github.com/itchyny/bed),
   [gojo](https://github.com/itchyny/gojo),
   [json2yaml](https://github.com/itchyny/json2yaml),
   [mmv](https://github.com/itchyny/mmv),
@@ -24,6 +24,14 @@ I love [Vim](https://www.vim.org/), [Go](https://golang.org), and [jq](https://s
   [base58-go](https://github.com/itchyny/base58-go),
   [volume-go](https://github.com/itchyny/volume-go),
   [maketen-go](https://github.com/itchyny/maketen-go))
+- Rust cli tools and libraries
+ ([uptime-rs](https://github.com/itchyny/uptime-rs),
+  [mackerel-client-rs](https://github.com/itchyny/mackerel-client-rs),
+  [mackerel-plugin-rs](https://github.com/itchyny/mackerel-plugin-rs),
+  [mackerel-plugin-uptime](https://github.com/itchyny/mackerel-plugin-uptime),
+  [mackerel-plugin-loadavg](https://github.com/itchyny/mackerel-plugin-loadavg),
+  [pihex-rs](https://github.com/itchyny/pihex-rs),
+  [log2hex-rs](https://github.com/itchyny/log2hex-rs))
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/itchyny).
 
