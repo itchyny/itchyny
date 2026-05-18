@@ -1,7 +1,13 @@
 ### Hey there, I'm itchyny
 
 I love open-source software.
-I love [Vim](https://www.vim.org/), [Go](https://golang.org), [Rust](https://rust-lang.org), and [jq](https://stedolan.github.io/jq/).
+I love [Vim](https://www.vim.org/), [Go](https://golang.org), [Rust](https://rust-lang.org), and [jq](https://jqlang.org).
+
+I'm a maintainer of jq.
+It is a JSON command-line processor and is widely used.
+I fix bugs, respond to and fix security issues, release updates.
+
+I also develop various software programs, such as the following.
 
 - Vim plugins
  ([lightline.vim](https://github.com/itchyny/lightline.vim),
@@ -13,9 +19,10 @@ I love [Vim](https://www.vim.org/), [Go](https://golang.org), [Rust](https://rus
 - Go cli tools and packages
  ([gojq](https://github.com/itchyny/gojq),
   [bed](https://github.com/itchyny/bed),
-  [gojo](https://github.com/itchyny/gojo),
-  [json2yaml](https://github.com/itchyny/json2yaml),
   [mmv](https://github.com/itchyny/mmv),
+  [go2bf](https://github.com/itchyny/go2bf),
+  [json2yaml](https://github.com/itchyny/json2yaml),
+  [gojo](https://github.com/itchyny/gojo),
   [fillin](https://github.com/itchyny/fillin),
   [rexdep](https://github.com/itchyny/rexdep),
   [maze](https://github.com/itchyny/maze),
@@ -34,6 +41,3 @@ I love [Vim](https://www.vim.org/), [Go](https://golang.org), [Rust](https://rus
   [log2hex-rs](https://github.com/itchyny/log2hex-rs))
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/itchyny).
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itchyny&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itchyny&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
